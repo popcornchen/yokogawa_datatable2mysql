@@ -1,0 +1,6 @@
+D:\机器人云平台边缘开发\yokogawa_datatable2mysql\yokogawa_datatable2mysql\bin\Debug\yokogawa_datatable2mysql.exe.config
+D:\机器人云平台边缘开发\yokogawa_datatable2mysql\yokogawa_datatable2mysql\bin\Debug\yokogawa_datatable2mysql.exe
+D:\机器人云平台边缘开发\yokogawa_datatable2mysql\yokogawa_datatable2mysql\bin\Debug\yokogawa_datatable2mysql.pdb
+D:\机器人云平台边缘开发\yokogawa_datatable2mysql\yokogawa_datatable2mysql\obj\Debug\yokogawa_datatable2mysql.csprojResolveAssemblyReference.cache
+D:\机器人云平台边缘开发\yokogawa_datatable2mysql\yokogawa_datatable2mysql\obj\Debug\yokogawa_datatable2mysql.exe
+D:\机器人云平台边缘开发\yokogawa_datatable2mysql\yokogawa_datatable2mysql\obj\Debug\yokogawa_datatable2mysql.pdb
